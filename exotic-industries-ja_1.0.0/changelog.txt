@@ -2,7 +2,7 @@
 Version 1.0.0
 Date 2023/
 Changes:
-        exotic-industries_0.3.1のlocale/enをもとに
+        exotic-industriesのlocale/enをもとに
         deeplを交えながら自分なりに翻訳を行った。
 
 ---------------------------------------------------------------------------------------------------
