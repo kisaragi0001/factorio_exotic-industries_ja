@@ -5,6 +5,9 @@ Changes:
 exotic-industries-loadersの訳追加
 exotic-industries-robotsの訳追加
 exotic-industries-containersの訳追加
+exotic-industries-tanksの訳追加（※貯蔵タンク2と貯水タンクの違いが判らなかったため、誤訳になっている可能性があります）
+exotic-industries-fuelerの訳追加(※Auto fueler towerの翻訳を自動給油塔としたため違和感を感じるかもしれません)
+いい翻訳があればモッドポータルのDisccusionにぜひご連絡ください
 ---------------------------------------------------------------------------------------------------
 Version 1.0.2
 Date 2023/5/1
