@@ -1,9 +1,0 @@
-{
-    "name": "exotic-industries-ja",
-    "version": "1.2.0",
-    "title": "Exotic Industries 日本語化",
-    "author": "tukiakari",
-    "factorio_version": "1.1",
-    "description": "Exiotic Industriesを日本語化するmodです。\n何か誤訳・翻訳に関する要望があればMODポータルのdiscussionに投稿していただけると助かります。\n",
-    "dependencies": ["? exotic-industries >= 0.5.0"]
-}
