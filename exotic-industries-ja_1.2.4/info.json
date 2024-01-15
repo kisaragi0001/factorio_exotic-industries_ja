@@ -1,9 +1,17 @@
 {
     "name": "exotic-industries-ja",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "title": "Exotic Industries 日本語化",
     "author": "tukiakari",
     "factorio_version": "1.1",
+    "homepage": "https://mods.factorio.com/user/tukiakari",
     "description": "Exiotic Industriesを日本語化するmodです。\n何か誤訳・翻訳に関する要望があればMODポータルのdiscussionに投稿していただけると助かります。\n",
-    "dependencies": ["? exotic-industries >= 0.5.4"]
+    "dependencies": [
+        "? exotic-industries >= 0.5.5",
+        "?exotic-industries-containers",
+        "?exotic-industries-loaders",
+        "?exotic-industries-robots",
+        "?exotic-industries-tanks",
+        "?exotic-industries-fueler"
+    ]
 }
